@@ -52,7 +52,7 @@
   转换后的订阅地址为后端地址加一系列参数，URL一般较长不甚美观，故可转为短链接
 - 远程配置
   - 分流配置，可以选择给定的也可以输入URL自定义分流规则（注意必须是直链才行），自用clash分流规则直链地址
-    https://raw.githubusercontent.com/cutethotw/ClashRule/main/GeneralClashRule.ini
+    https://raw.githubusercontent.com/justdoiting/ClashRule/main/GeneralClashRule.ini
   - 自定义策略组
     - 选择模式
       - 延迟最低，顾名思义，每隔一段时间进行延迟测试，选择延迟最低的节点
