@@ -109,6 +109,8 @@
 3.参考示例
 
 
-[![LfZokj.png](https://s1.ax1x.com/2022/04/23/LfZokj.png)](https://imgtu.com/i/LfZokj)
+![填写](https://user-images.githubusercontent.com/109136320/179202130-e2dc2f82-7d4b-4c10-be32-52f3a3e4582b.png)
 
-[![LfegUJ.png](https://s1.ax1x.com/2022/04/23/LfegUJ.png)](https://imgtu.com/i/LfegUJ)
+
+![我的分组规则](https://user-images.githubusercontent.com/109136320/179201756-5a457661-ca2d-4c0a-8031-d3b50fea4ff3.jpg)
+
