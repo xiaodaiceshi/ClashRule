@@ -4,7 +4,7 @@
 直接现成用法：
 （1）打开https://sub.v1.mk
 （2）填写自己的订阅链接
-（3）远程配置选择emby-TkTok-流媒体分组去广告加强版
+（3）远程配置选择emby-TikTok-流媒体分组去广告加强版
 （4）点击 生成订阅链接
 （5）将生成的订阅链接导入clash的配置中
 ![image](https://user-images.githubusercontent.com/109136320/179713465-25c87cfe-39eb-49e8-b829-c4293f418b63.png)
