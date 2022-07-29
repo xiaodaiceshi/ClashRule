@@ -70,3 +70,12 @@ payload:
         # ======= 小红书 ======= #
         # issue#4 提供
   - DOMAIN-SUFFIX,xiaohongshu.com
+        # ======= 其乐论坛 ======= #
+        # issue#11 提供
+  - DOMAIN,keylol.com
+        # ======= 西瓜视频 ======= #
+        # issue#10 提供
+  - DOMAIN-SUFFIX,ixigua.com
+        # ======= 文叔叔 ======= #
+        # DoingDog/anti-ip-attribution
+  - DOMAIN,www.wenshushu.cn  
