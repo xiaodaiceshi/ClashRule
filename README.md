@@ -9,7 +9,7 @@
 （5）将生成的订阅链接导入clash的配置中
 ![image](https://user-images.githubusercontent.com/109136320/179713465-25c87cfe-39eb-49e8-b829-c4293f418b63.png)
 
-
+Country.mmdb文件建议使用 https://github.com/Hackl0us/GeoIP2-CN
 
 1. 选择订阅转换服务器
 
