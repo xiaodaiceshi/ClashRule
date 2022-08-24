@@ -121,5 +121,6 @@ Country.mmdb文件建议使用 https://github.com/Hackl0us/GeoIP2-CN
 ![填写](https://user-images.githubusercontent.com/109136320/179202130-e2dc2f82-7d4b-4c10-be32-52f3a3e4582b.png)
 
 
-![我的分组规则](https://user-images.githubusercontent.com/109136320/179201756-5a457661-ca2d-4c0a-8031-d3b50fea4ff3.jpg)
+![新示例](https://user-images.githubusercontent.com/109136320/186399984-d02a39dd-983e-46fa-8615-a51543dace6a.png)
+
 
