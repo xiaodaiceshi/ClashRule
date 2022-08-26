@@ -7,7 +7,7 @@
 （3）远程配置选择emby-TikTok-流媒体分组去广告加强版
 （4）点击 生成订阅链接
 （5）将生成的订阅链接导入clash的配置中
-![image](https://user-images.githubusercontent.com/109136320/179713465-25c87cfe-39eb-49e8-b829-c4293f418b63.png)
+![image](https://user-images.githubusercontent.com/109136320/186873988-bad4e3e0-dd5f-4f96-9474-d3c2253d214f.png)
 
 Country.mmdb文件建议使用 https://github.com/Hackl0us/GeoIP2-CN
 
