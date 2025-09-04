@@ -52,3 +52,23 @@ payload:
   - DOMAIN-SUFFIX,hs.gcx920110.com
   - DOMAIN-SUFFIX,play.charontv.com
   - IP-CIDR,161.97.148.156/24,no-resolve
+  - DOMAIN-SUFFIX,vban.xyz
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,term.wtf
+  - DOMAIN-SUFFIX,coemn.com
+  - DOMAIN-SUFFIX,embycc.link
+  - DOMAIN-SUFFIX,3767483.xyz
+  - DOMAIN-SUFFIX,meowfly.de
+  - DOMAIN-SUFFIX,5msky.com
+  - DOMAIN-SUFFIX,yunti.online
+  - DOMAIN-SUFFIX,embymv.link
+  - DOMAIN-SUFFIX,lite.cn2gias.uk
+  - DOMAIN,cf.sfcj.org
+  - DOMAIN,cf.lilyemby.my
+  - DOMAIN,zoxfree.3767483.xyz
+  - DOMAIN,mperformance.mebimmer.de
+  - DOMAIN,public.shrekmedia.org
+  - DOMAIN,emby.feiniu.lol
+  - DOMAIN,gy.meowfly.de
+
+
