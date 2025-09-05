@@ -1,5 +1,6 @@
 # xd
 DOMAIN-SUFFIX,397888.xyz
+DOMAIN-SUFFIX,ssdhome.pp.ua
 DOMAIN,cdn.lilyemby.my
 DOMAIN,o1.lilyemby.my
 DOMAIN,o2.lilyemby.my
@@ -8,6 +9,7 @@ DOMAIN,jp.lilyemby.my
 DOMAIN,tx.lilyemby.my
 DOMAIN,cc.embycc.link
 DOMAIN,cdn.sfcj.org
+
 
 # 向日葵
 DOMAIN-SUFFIX,oray.net
