@@ -1,3 +1,14 @@
+# xd
+DOMAIN-SUFFIX,397888.xyz
+DOMAIN,cdn.lilyemby.my
+DOMAIN,o1.lilyemby.my
+DOMAIN,o2.lilyemby.my
+DOMAIN,o3.lilyemby.my
+DOMAIN,jp.lilyemby.my
+DOMAIN,tx.lilyemby.my
+DOMAIN,cc.embycc.link
+DOMAIN,cdn.sfcj.org
+
 # 向日葵
 DOMAIN-SUFFIX,oray.net
 PROCESS-NAME,SunloginClient.exe
@@ -11,13 +22,4 @@ IP-CIDR,103.135.250.65/32,no-resolve
 # 浏览器自动验证码拓展nopecha解除ip封禁
 DOMAIN,api.nopecha.com
 
-# xd
-DOMAIN-SUFFIX,397888.xyz
-DOMAIN,cdn.lilyemby.my
-DOMAIN,o1.lilyemby.my
-DOMAIN,o2.lilyemby.my
-DOMAIN,o3.lilyemby.my
-DOMAIN,jp.lilyemby.my
-DOMAIN,tx.lilyemby.my
-DOMAIN,cc.embycc.link
-DOMAIN,cdn.sfcj.org
+
